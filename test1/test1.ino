@@ -1,7 +1,7 @@
 #define LED_PIN 5    // LED 연결된 GPIO 5번 사용
 
 void setup() {
-  pinMode(LED_PIN, OUTPUT);   // LED 핀을 출력으로 설정
+  pinMode(LED_PIN, OUTPUT);   // LED 핀을 출력으로 설정  //테스트용 주석
 }
 
 void loop() {
